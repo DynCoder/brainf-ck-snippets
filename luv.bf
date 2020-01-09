@@ -12,5 +12,5 @@
 <<<+++[>>+++<<-]>>.                          R 82
 <------.                                     o 111
 <+++[>----<-]>.                              c 99
-<++++++++++[>>>>++++++++++++++++<<<<-]>>>>+. í 161 <----- This ascii char is not supported by brainfuck
-<<<<+++[>++++<-]>.                           o 111
+<++[>+++<-]>.                                í 161 = i 105 (This ascii char is not supported by brainfuck)
+<++[>+++<-]>.                                o 111
