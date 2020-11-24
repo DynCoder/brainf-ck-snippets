@@ -4,7 +4,7 @@ cell 1 == cell 2: requires 5 free cells
 output on cell 3
 cell 4 and 5 for copying
 
-++++>++++ cell 1 and 2
+,>, cell 1 and 2
 >>++++++++[<++++++>-]<< output if false
 [>>+>+<<<-]>>>[-<<<+>>>]<<< copy cell 2
 [<->-]+< calc difference
@@ -15,7 +15,7 @@ cell 4 and 5 for copying
 ```
 copy:
 ```brainfuck
-++++>++++
+,>,
 >>++++++++[<++++++>-]<<
 [>>+>+<<<-]>>>[-<<<+>>>]<<<
 [<->-]+<
