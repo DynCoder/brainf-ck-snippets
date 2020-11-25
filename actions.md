@@ -1,4 +1,4 @@
-#### ==
+#### Equals (==)
 ```brainfuck
 cell 1 == cell 2: requires 5 free cells
 output on cell 3
